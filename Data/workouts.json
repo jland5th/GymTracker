@@ -1,0 +1,93 @@
+[
+  {
+    "Date": "2026-07-31T00:00:00-05:00",
+    "WorkoutType": "Push",
+    "Exercises": [
+      {
+        "ExerciseId": 1,
+        "Sets": [
+          {
+            "Reps": 10,
+            "Weight": 135
+          },
+          {
+            "Reps": 8,
+            "Weight": 155
+          },
+          {
+            "Reps": 6,
+            "Weight": 175
+          }
+        ]
+      },
+      {
+        "ExerciseId": 2,
+        "Sets": [
+          {
+            "Reps": 10,
+            "Weight": 75
+          },
+          {
+            "Reps": 8,
+            "Weight": 85
+          },
+          {
+            "Reps": 6,
+            "Weight": 95
+          }
+        ]
+      },
+      {
+        "ExerciseId": 3,
+        "Sets": [
+          {
+            "Reps": 12,
+            "Weight": 50
+          },
+          {
+            "Reps": 10,
+            "Weight": 55
+          },
+          {
+            "Reps": 8,
+            "Weight": 60
+          }
+        ]
+      },
+      {
+        "ExerciseId": 4,
+        "Sets": [
+          {
+            "Reps": 15,
+            "Weight": 15
+          },
+          {
+            "Reps": 15,
+            "Weight": 15
+          },
+          {
+            "Reps": 12,
+            "Weight": 20
+          }
+        ]
+      },
+      {
+        "ExerciseId": 5,
+        "Sets": [
+          {
+            "Reps": 15,
+            "Weight": 40
+          },
+          {
+            "Reps": 12,
+            "Weight": 50
+          },
+          {
+            "Reps": 10,
+            "Weight": 60
+          }
+        ]
+      }
+    ]
+  }
+]

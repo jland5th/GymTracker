@@ -1,0 +1,17 @@
+[
+  { "Id": 1,  "Name": "Bench Press",            "MuscleGroup": "Chest" },
+  { "Id": 2,  "Name": "Overhead Press",         "MuscleGroup": "Shoulders" },
+  { "Id": 3,  "Name": "Incline Dumbbell Press", "MuscleGroup": "Chest" },
+  { "Id": 4,  "Name": "Lateral Raise",          "MuscleGroup": "Shoulders" },
+  { "Id": 5,  "Name": "Triceps Pushdown",       "MuscleGroup": "Triceps" },
+  { "Id": 6,  "Name": "Deadlift",               "MuscleGroup": "Back" },
+  { "Id": 7,  "Name": "Pull-Up",                "MuscleGroup": "Back" },
+  { "Id": 8,  "Name": "Barbell Row",            "MuscleGroup": "Back" },
+  { "Id": 9,  "Name": "Face Pull",              "MuscleGroup": "Rear Delts" },
+  { "Id": 10, "Name": "Bicep Curl",             "MuscleGroup": "Biceps" },
+  { "Id": 11, "Name": "Squat",                  "MuscleGroup": "Quads" },
+  { "Id": 12, "Name": "Romanian Deadlift",      "MuscleGroup": "Hamstrings" },
+  { "Id": 13, "Name": "Leg Press",              "MuscleGroup": "Quads" },
+  { "Id": 14, "Name": "Leg Curl",               "MuscleGroup": "Hamstrings" },
+  { "Id": 15, "Name": "Calf Raise",             "MuscleGroup": "Calves" }
+]
