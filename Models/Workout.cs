@@ -3,4 +3,14 @@ public class Workout{
     public DateTime Date {get; set;}
     public string WorkoutType {get; set;} ="";
     public List<Exercise> Exercises {get; set;} = new();
+    public void Print()
+        {
+            Console.WriteLine($"{WorkoutType} - {Date:d}");
+            Console.WriteLine("-------------------------");
+            foreach (var exercise in Exercises)
+            {
+                exercise.Print();
+            }
+            Console.WriteLine("-------------------------");
+        }
 }
